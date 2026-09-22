@@ -46,3 +46,7 @@ Entre os problemas resolvidos estão:
 - Classificação de triângulos;
 - Representação de valores utilizando notas de um caixa eletrônico;
 - Classificação de estudantes utilizando média e frequência.
+
+## 📌Observações 
+
+Esta lista foi desenvolvida no contexto acadêmico da disciplina de Algoritmos e Pensamento Computacional. Os códigos têm finalidade principalmente educacional, servindo como registro da prática e da evolução no aprendizado da linguagem C.
